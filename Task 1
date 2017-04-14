@@ -1,0 +1,2 @@
+Design of a FUSE file system with a 1KB block size where if you read/write file “27” it means reading/writing whatever is in block 27. 
+So when you mount your filesystem, you will see files equal to the number of blocks in the file system and each file will be exactly 1KB.
