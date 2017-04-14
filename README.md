@@ -1,4 +1,4 @@
-# Log-Structured-FIie-System-
+# Log-Structured-File-System-
 
 Implementation of  a log structured file system using FUSE and C on Linux 
 Basic functionalities implemented in this project are
